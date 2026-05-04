@@ -34,6 +34,7 @@
 	"dependencies": {
 		"@upyo/core": "^0.4.0",
 		"@upyo/smtp": "^0.4.0",
+		"pdfjs-dist": "^5.7.284",
 		"surrealdb": "^2.0.3",
 		"zod": "^4.3.6"
 	}
